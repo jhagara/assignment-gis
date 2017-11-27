@@ -18,10 +18,14 @@ Build a map-based application, which lets the user see geo-based data on a map a
 
 ## My project
 
-Fill in (either in English, or in Slovak):
+Fork this repository and fill in (either in English, or in Slovak):
 
-**Application description**: `<fill in>`
+**Application description**:
+Táto aplikácia zobrazuje školy podľa rôznych kritérií. Hlavné funkcie:
+- vyhľadanie najbližšiej školy
+- zobrazenie škôl v blízskosti parku alebo záhrady
+- zobrazenie zastávok v blízskosti školy
 
-**Data source**: `<fill in>`
+**Data source**: `open street map`
 
-**Technologies used**: `<fill in>`
+**Technologies used**: `python - flask, javascript - leafletjs`
